@@ -52,6 +52,6 @@ In many ways Docker caries the kleenex effect when talking about containers. Doc
 
 * Dockerfiles are configuration documents with commands regarding the architecture of a docker image.
 
-* Docker images are made up of layers in order to increse reusability. If a new version of a image needs to be rebuit/downloaded, only the layers that are changed will be affected, the rest will remain intact saving on build time or download time and resources.
+* Docker images are made up of layers in order to increase reusability. If a new version of a image needs to be rebuit/downloaded, only the layers that are changed will be affected, the rest will remain intact saving on build time or download time and resources.
 
 * Docker containers are instances of Docker images
