@@ -5,9 +5,9 @@
 ## What is a container?
 ![Container](assets/images/container.png "Container")
 
-Containers are a packaging mechanism in which application are abstracted from the enviroment on which they run.
+Containers are a packaging mechanism in which applications are abstracted from the enviroment on which they run.
 
-Containers were created to solve 3 main problems in software deployment:
+Containers were created to solve 4 main problems in software deployment:
 
 ### 1. Standardization
 
