@@ -3,7 +3,8 @@
 # Docker Intro
 
 ## What is a container?
-![Container](assets/images/container.png "Container")
+
+<img src="assets/images/container.png" alt="drawing" width="150"/>
 
 Containers are a packaging mechanism in which applications are abstracted from the enviroment on which they run.
 
